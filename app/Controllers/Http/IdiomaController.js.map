@@ -1,0 +1,1 @@
+{"version":3,"file":"IdiomaController.js","sourceRoot":"","sources":["../../../../app/Controllers/Http/IdiomaController.ts"],"names":[],"mappings":";;;;;AAEA,qFAAuC;AAEvC,MAAqB,gBAAgB;IAE1B,KAAK,CAAC,GAAG;QACZ,IAAI,CAAC,GAAG,CAAC,MAAM,gBAAM,CAAC,KAAK,EAAE,CAAC,SAAS,CAAC,cAAc,CAAC,CAAC,CAAC;QACzD,OAAO,EAAC,OAAO,EAAE,IAAI,EAAE,GAAG,EAAC,CAAC,EAAC,CAAA;IACjC,CAAC;CAEJ;AAPD,mCAOC"}
